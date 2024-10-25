@@ -1,2 +1,3 @@
 # InfoLine-END
-Обновления с последнего занятия
+<p> Работа с крайнего занятия </p>
+<p> Ссылка - https://edrassokhin.github.io/InfoLine-END/ </p>
